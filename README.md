@@ -57,7 +57,7 @@ The dashboard includes the following core metrics:
 | Missing Values in Source CSV | 0 |
 | Duplicate Rows in Source CSV | 0 |
 
-*Note: These figures are calculated from the supplied source CSV and represent the overall dataset, not necessarily every filtered dashboard view.*
+
 
 ## 🔍 Analysis Performed
 
@@ -146,6 +146,6 @@ Thanks to the creators and maintainers of the HR Employee Attrition dataset for 
 
 *If you find this project useful, consider giving the repository a star ⭐.*
 
-# Screenshots of the project is given below:
+
 
 
