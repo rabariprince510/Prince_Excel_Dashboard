@@ -148,6 +148,4 @@ Thanks to the creators and maintainers of the HR Employee Attrition dataset for 
 
 # Screenshots of the project is given below:
 
-<img width="1366" height="768" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/f56ad0e6-a9fc-4578-a605-e59c2901f19a" />
-<img width="1366" height="768" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/171936d5-f3c3-432b-927b-0bd288022e4e" />
-<img width="1366" height="768" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/b3ab6812-7a88-42fa-ab38-02979fd4a811" />
+
